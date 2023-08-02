@@ -16,6 +16,7 @@
 3. As vezes, Eldritch Exalted Orbs podem ser mais baratos que Exalts comuns
 
 ## Profit Crafts
+
 ### Stygian Vyse iLvl 86+
 
 1. Utilizar um Scouring Orb
