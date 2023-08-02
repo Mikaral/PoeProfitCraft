@@ -1,10 +1,21 @@
-# PoeProfitCraft
+# Poe Profit Craft
+
+- [Dicas](#dicas)
+- [Profit Crafts](#profit-crafts)
+  - [Stygian Vyse iLvl 86+](#stygian-vyse-ilvl-86)
+  - [Bota com Vida Fractured](#bota-com-vida-fractured)
+  - [Awakened Gems + Wild Brambleback](#awakened-gems--wild-brambleback)
+  - [Righteous Fire Helmet (Método com o mercado mais estável)](#righteous-fire-helmet-método-com-o-mercado-mais-estável)
+  - [Minion Shields (Método mais lucrativo pra mim no 3.21)](#minion-shields-método-mais-lucrativo-pra-mim-no-321)
+  - [Shaper Shields (Profit craft barato para League Start)](#shaper-shields-profit-craft-barato-para-league-start)
 
 ## Dicas
 
 1. É possível utilizar beast crafting para aplicar meta mods como "*Suffixes cannot be changed*" de forma mais barata
 2. Dependendo do contexto, o beast craft de "*Add Prefix/Remove Suffix*" ou seu inverso "*Add Suffix/Remove Prefix*" pode ser mais seguro que utilizar um Orb of Annulment
 3. As vezes, Eldritch Exalted Orbs podem ser mais baratos que Exalts comuns
+
+## Profit Crafts
 ### Stygian Vyse iLvl 86+
 
 1. Utilizar um Scouring Orb
