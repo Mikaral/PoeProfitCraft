@@ -23,6 +23,7 @@
 3. Escolher a essência de resistência mais barata
 4. Utilizar a essência do passo 1 até ter três modificadores de resistência bons (Pelo menos um deles T2+ e outro T3+)
 5. Dependendo dos preços das essências e o preço de venda dos cintos, pode ser mais lucrativo usar essências até vir vida, craftar vida ou utilizar Wild Bristle Mantron + Veiled Chaos e dar unveil em vida.
+
 ### Bota com Vida Fractured
 
 1. Comprar uma base com um bom roll de Vida Fractured
@@ -31,6 +32,7 @@
 4. Usar um Veiled Chaos Orb
 5. Craftar mana
 6. Dar unveil em movement speed
+
 ### Awakened Gems + Wild Brambleback
 
 1. Esse método envolve procurar por Awakened Gems Lvl. 1 que estão mais baratas que suas versões Lvl. 5. Quanto maior a diferença, maior o lucro.
