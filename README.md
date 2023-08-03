@@ -2,12 +2,13 @@
 
 - [Dicas](#dicas)
 - [Profit Crafts](#profit-crafts)
-  - [Stygian Vyse iLvl 86+](#stygian-vyse-ilvl-86)
-  - [Bota com Vida Fractured](#bota-com-vida-fractured)
-  - [Awakened Gems + Wild Brambleback](#awakened-gems--wild-brambleback)
-  - [Righteous Fire Helmet (Método com o mercado mais estável)](#righteous-fire-helmet-método-com-o-mercado-mais-estável)
-  - [Minion Shields (Método mais lucrativo pra mim no 3.21)](#minion-shields-método-mais-lucrativo-pra-mim-no-321)
-  - [Shaper Shields (Profit craft barato para League Start)](#shaper-shields-profit-craft-barato-para-league-start)
+	- [Stygian Vyse iLvl 86+](#stygian-vyse-ilvl-86)
+	- [Bota com Vida Fractured](#bota-com-vida-fractured)
+	- [Awakened Gems + Wild Brambleback](#awakened-gems--wild-brambleback)
+	- [Righteous Fire Helmet (Método com o mercado mais estável)](#righteous-fire-helmet-método-com-o-mercado-mais-estável)
+	- [Minion Shields (Método mais lucrativo pra mim no 3.21)](#minion-shields-método-mais-lucrativo-pra-mim-no-321)
+	- [Shaper Shields (Profit craft barato para League Start)](#shaper-shields-profit-craft-barato-para-league-start)
+	- [Hunter influenced Ring](#hunter-influenced-ring)
 
 ## Dicas
 
@@ -71,3 +72,12 @@
 	2. Recover % of life when you block
 	3. +1 to maximum totems
 3. Se houver um prefixo aberto, craftar vida ou Armour (craftar apenas se não puder craftar vida). Se houver um sufixo aberto, craftar resistências.
+
+### Hunter influenced Ring
+
+1. Comprar Two-stone rings com influência do Hunter
+2. Utilizar Reforge Caster da Horticrafting Bench
+3. Procurar por:
+   1. Multiplas resistências + Open prefix (Ou vida)
+   2. Pelo menos uma resistência de um tier alto (T4+), vida e um open suffix.
+4. Se o anel tiver um open prefix e já tiver vida, craftar "*Non-Channeling skills have -# mana cost*"
